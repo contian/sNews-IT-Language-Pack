@@ -1,6 +1,6 @@
 # sNews IT Language Pack
 
-![Image of Yaktocat](http://snewscms.com/download/snews_logo.png)
+![sNewsLogo](http://snewscms.com/download/snews_logo.png)
 
 sNews è un CMS leggero e veloce, molto pratico per realizzare siti "minimali". Non esistendo online un _language pack_ italiano, ho pensato di realizzarlo io stesso.
 
