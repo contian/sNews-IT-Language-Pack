@@ -15,21 +15,21 @@ global $l;
 	// default value is used only if "home_SEF" is not set in the database
 	// allowed characters are [a-z] [A-Z] [0-9] [-] [_]
 	$l['home_sef'] = 'home';
-	$l['archive'] = 'Archive';
-	$l['contact'] = 'Contact';
-	$l['sitemap'] = 'Site Map';
+	$l['archive'] = 'Archivio';
+	$l['contact'] = 'Contatti';
+	$l['sitemap'] = 'Mappa del sito';
 
 	# categories
-	$l['month_names'] = 'January, February, March, April, May, June, July, August, September, October, November, December';
+	$l['month_names'] = 'Gennaio, Febbraio, Marzo, Aprile, Maggio, Giugno, Luglio, Agosto, Settembre, Ottobre, Novembre, Dicembre';
 	$l['none_yet'] = 'No content yet...';
 
 	# search
-	$l['search_keywords'] = 'Search Keywords';
-	$l['search_button'] = 'Search';
-	$l['search_results'] = 'Search results';
-	$l['charerror'] = 'At least 4 characters are needed to perform the search.';
-	$l['noresults'] = 'There are no results for query ';
-	$l['resultsfound'] = 'results were found for query';
+	$l['search_keywords'] = 'Parole chiave';
+	$l['search_button'] = 'Cerca';
+	$l['search_results'] = 'Risultati della ricerca';
+	$l['charerror'] = 'Sono richiesti almeno 4 caratteri.';
+	$l['noresults'] = 'Non ci sono risultati per ';
+	$l['resultsfound'] = 'risultati trovati per';
 
 	#comments
 	$l['addcomment'] = 'Write a comment';

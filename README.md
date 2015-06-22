@@ -1,4 +1,4 @@
-# sNews-IT-Language-Pack
+# sNews IT Language Pack
 
 sNews è un CMS leggero e veloce, molto pratico per realizzare siti "minimali". Non esistendo online un _language pack_ italiano, ho pensato di realizzarlo io stesso.
 
