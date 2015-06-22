@@ -21,7 +21,7 @@ global $l;
 
 	# categories
 	$l['month_names'] = 'Gennaio, Febbraio, Marzo, Aprile, Maggio, Giugno, Luglio, Agosto, Settembre, Ottobre, Novembre, Dicembre';
-	$l['none_yet'] = 'No content yet...';
+	$l['none_yet'] = 'Nessun contenuto...';
 
 	# search
 	$l['search_keywords'] = 'Parole chiave';
